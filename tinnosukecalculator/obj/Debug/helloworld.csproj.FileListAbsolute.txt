@@ -1,0 +1,11 @@
+C:\Users\macar\source\repos\helloworld\bin\Debug\helloworld.exe.config
+C:\Users\macar\source\repos\helloworld\bin\Debug\helloworld.exe
+C:\Users\macar\source\repos\helloworld\bin\Debug\helloworld.pdb
+C:\Users\macar\source\repos\helloworld\obj\Debug\helloworld.csproj.AssemblyReference.cache
+C:\Users\macar\source\repos\helloworld\obj\Debug\helloworld.csproj.SuggestedBindingRedirects.cache
+C:\Users\macar\source\repos\helloworld\obj\Debug\helloworld.Form1.resources
+C:\Users\macar\source\repos\helloworld\obj\Debug\helloworld.Properties.Resources.resources
+C:\Users\macar\source\repos\helloworld\obj\Debug\helloworld.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\helloworld\obj\Debug\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\helloworld\obj\Debug\helloworld.exe
+C:\Users\macar\source\repos\helloworld\obj\Debug\helloworld.pdb
