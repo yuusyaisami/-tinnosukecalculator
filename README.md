@@ -1,4 +1,7 @@
 # -tinnosukecalculator  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110176625/223738157-cff27184-b1db-4215-b243-cbea794ff69a.png" />
+</p>
 I created an application in C# for the first time.  
 Please take this code with a grain of salt.  
 Next, I plan to make an improved calculator.  
