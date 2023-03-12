@@ -1,4 +1,4 @@
-# -tinnosukecalculator  
+# -tinnosukecalculator(old)  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110176625/223738157-cff27184-b1db-4215-b243-cbea794ff69a.png" />
 </p>
